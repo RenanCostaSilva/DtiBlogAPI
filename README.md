@@ -4,12 +4,15 @@
 # Sobre o aplicativo
 Api do Teste Prático para Dti , de Postagem de artigos em blog. Esta api está funcionando normal completamente , Foi utilizado o Banco de Dados MySql para simular requisições reais.
 
-O java jdk mínimo para o projeto é o 17 , já o abaixo disso o RESTFull não suporta mais.
+## Atenção
+Antes de iniciar a api , certifique - se de ter instalado o MySql e ter iniciado o servidor, caso contrário não irá funcionar direito a API.
+Procedimento padrão para todo consumo de api. Odriver de conexão já está no POM.xml e está configurado.
 
+O java jdk mínimo para o projeto é o 17 , já o abaixo disso o RESTFull não suporta mais.
 as tabelas e os dados já são incluido , quando se start a api , através de script.
 
-
-Este aplicativo pode bastante melhorando ainda  mas funciona normal. Antes de executar o aplicativo. certifique - se de subido a api , criado o banco de dados MySql e o usuario com permissão
+## Acessos 
+Antes de executar o aplicativo. certifique - se de subido a api , criado o banco de dados MySql e o usuario com permissão total.
 Usuario: admin
 senha: 123456
 
