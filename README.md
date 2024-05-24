@@ -13,14 +13,11 @@ configurado e customizado.
 http://localhost:8080/swagger-ui/index.html#/
 
 ## Imagens da Aplicação
-![mobile 1](https://github.com/RenanCostaSilva/DTIBlog/blob/main/1.png)
-![mobile 2](https://github.com/RenanCostaSilva/DTIBlog/blob/main/1a.png)
-![mobile 3](https://github.com/RenanCostaSilva/DTIBlog/blob/main/3.png)
-![mobile 4](https://github.com/RenanCostaSilva/DTIBlog/blob/main/4.png)
-![mobile 5](https://github.com/RenanCostaSilva/DTIBlog/blob/main/5.png)
-![mobile 6](https://github.com/RenanCostaSilva/DTIBlog/blob/main/6.png)
-![mobile 7](https://github.com/RenanCostaSilva/DTIBlog/blob/main/7.png)
-![mobile 8](https://github.com/RenanCostaSilva/DTIBlog/blob/main/8.png)
+![mobile 1](https://github.com/RenanCostaSilva/DtiBlogAPI/blob/master/2.png)
+![mobile 2](https://github.com/RenanCostaSilva/DtiBlogAPI/blob/master/3.png)
+![mobile 3](https://github.com/RenanCostaSilva/DtiBlogAPI/blob/master/4.png)
+![mobile 4](https://github.com/RenanCostaSilva/DtiBlogAPI/blob/master/5.png)
+![mobile 5](https://github.com/RenanCostaSilva/DtiBlogAPI/blob/master/6.png)
 
 ## iniciar Servico Mysql
 service mysql start
