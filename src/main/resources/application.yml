@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    driverClassNme: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dti
+    username: admin
+    password: '123456'
+  sql:
+    init:
+      mode: always
+SpringMVC:
+  packagesToScan: 'br.com.renancsdev.dti_api_rest'
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    generate-ddl: true
+
+
